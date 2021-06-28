@@ -8,14 +8,14 @@
   - Classificaçao Lutador;
   
 >Condicionais SE
-  - Triaâgulo 
-  - Impar e par
-  - IMC 
-  - categoria Boxe
-  - Competir Volei
-  - Saldo banco
-  - Imposto de Renda 
-  - Aumento
+  - Triâgulo;
+  - Impar e par;
+  - IMC;
+  - Categoria Boxe;
+  - Competir Volei;
+  - Saldo banco;
+  - Imposto de Renda; 
+  - Aumento Salarial;
   
 >Condicionais CASO
-  -
+  - 
