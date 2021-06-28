@@ -1,4 +1,4 @@
-# PROALG---2bim---Maria-Eduarda-O
+# PROALG-2bim-Maria-Eduarda.O
 >Operadores Logicos e relacionais
   - qual tipo de triângulo;
   - Impar ou Par;
