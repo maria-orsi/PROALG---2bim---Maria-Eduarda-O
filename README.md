@@ -1,5 +1,5 @@
 # PROALG---2bim---Maria-Eduarda-O
->Operadores Logicos e relacionais<
+>Operadores Logicos e relacionais
   - qual tipo de triângulo;
   - Impar ou Par;
   - Volei permissao;
@@ -7,5 +7,15 @@
   - IMC;
   - Classificaçao Lutador;
   
-<Condicionais SE>
-<Condicionais CASO>
+>Condicionais SE
+  - Triaâgulo 
+  - Impar e par
+  - IMC 
+  - categoria Boxe
+  - Competir Volei
+  - Saldo banco
+  - Imposto de Renda 
+  - Aumento
+  
+>Condicionais CASO
+  -
