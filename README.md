@@ -21,4 +21,4 @@
   - BANCO 3.0;
   - Peso Planeta;
   - Signo;
-  - Preço Produto;
+  - Compra de Produto;
