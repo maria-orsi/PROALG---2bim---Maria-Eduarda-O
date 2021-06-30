@@ -3,7 +3,7 @@
   - qual tipo de triângulo;
   - Impar ou Par;
   - Volei permissao;
-  - Banco saque;
+  - Banco 1.0;
   - IMC;
   - Classificaçao Lutador;
   
@@ -13,9 +13,12 @@
   - IMC;
   - Categoria Boxe;
   - Competir Volei;
-  - Saldo banco;
+  - Banco 2.0;
   - Imposto de Renda; 
   - Aumento Salarial;
   
 >Condicionais CASO
-  - 
+  - BANCO 3.0;
+  - Peso Planeta;
+  - Signo;
+  - Preço Produto;
